@@ -24,7 +24,7 @@ const UserLayout = () => {
         zIndex={10}
       >
         <Text fontSize="xl" fontWeight="bold">
-          <Link to="/">ResepKu</Link>
+          <Link to="/home">ResepKu</Link>
         </Text>
 
         <Spacer />
